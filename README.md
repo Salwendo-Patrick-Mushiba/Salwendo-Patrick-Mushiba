@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Salwendo-Patrick-Mushiba. I'm an engineering major in my sophomore year, proficient in MATLAB and Simulink.
 - 👀 I’m interested in AI, specifially ML, its applications in robotics and health care.
 - 🌱 I’m currently learning the python programming language, algorithm design and discrete math. 
-- 💞️ I’m looking to collaborate on an projects that involve manipulating data to find trends and patterns.
+- 💞️ I’m looking to collaborate on projects that involve autonomous robotics or manipulating data to find insightful trends.
 - 📫 How to reach me:
 - DISCORD: LIYETO#0134
 
